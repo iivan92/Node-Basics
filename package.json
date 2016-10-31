@@ -1,0 +1,30 @@
+{
+  "name": "basic",
+  "version": "0.0.1",
+  "description": "Basic Node project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iivan92/Node-Basics.git"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "server",
+    "javascript",
+    "express"
+  ],
+  "author": "Ivan Megias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iivan92/Node-Basics/issues"
+  },
+  "homepage": "https://github.com/iivan92/Node-Basics#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
