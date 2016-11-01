@@ -1,6 +1,6 @@
 # Node-Basics
 
-The basic code to create a server in Node.js with Express. 
+The basic code to create a server in Node.js with Express. Also, the installation of express-session and cookies-parser.
 
 # Installation
 
