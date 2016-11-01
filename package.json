@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/iivan92/Node-Basics#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
+    "express-session": "^1.14.2",
     "morgan": "^1.7.0"
   }
 }
